@@ -1,0 +1,27 @@
+a {
+		background-color:blue;
+		box-shadow: 0 2px 0 darkred;
+		color: yellow;
+		padding: 0.5em 0.5em;
+		  position: relative;
+		  text-decoration: none;
+		  text-transform: uppercase;
+		  font: 16px Verdana, sans-serif;  
+		display:block;
+		width:300px;
+		height:25px;
+}
+
+a:hover {
+  background-color:blue;
+  cursor: pointer;
+}
+
+a:active {
+  box-shadow: none;
+  top: 2px;
+}
+
+
+
+
